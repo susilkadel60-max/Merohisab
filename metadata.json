@@ -1,0 +1,6 @@
+{
+  "name": "मेरो हिसाब (Mero Hisab) - नेपाली आय-व्यय व्यवस्थापन",
+  "description": "Android-first Nepali Personal Income & Expense Management app with Bikram Sambat calendar, offline storage, CSV backup, and EAS APK export pipeline. Developed by SUSIL KADEL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
